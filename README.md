@@ -1,5 +1,7 @@
 # Phone Bettery Charging Rent Kiosks Station Map
 
+![Phone Bettery Charging Rent Kiosks Station Map](https://github.com/dotku/phone-bettery-charging-rent-kiosks-station-map/assets/1519232/29ed6bee-80da-40e2-a65b-76559a9a2807)
+
 Charge Anytime, Anywhere.  
 Bettery Rent Map offers the largest network of mobile charging kiosks for users to rent portable chargers on the go.
 
